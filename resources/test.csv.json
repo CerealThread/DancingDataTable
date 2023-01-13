@@ -1,0 +1,44 @@
+{
+  "rows": 20,
+  "fields": [
+    {
+      "name": "Name",
+      "type": "faker:name:first_name"    
+    },
+    {
+      "name": "Age",
+      "type": "rand:int",
+      "range": [1, 100]
+    },
+    {
+      "name": "Value 1",
+      "type": "rand:float",
+      "range": [0.1, 192.32]
+    },
+    {
+      "name": "Value 2",
+      "type": "rand:float",
+      "range": [10.2, 25.83]
+    },
+    {
+      "name": "Value 3",
+      "type": "rand:float",
+      "range": [0.1, 2.9]
+    },
+    {
+      "name": "Value 4",
+      "type": "rand:float",
+      "range": [93.23, 400.23]
+    },
+    {
+      "name": "Value 5",
+      "type": "rand:float",
+      "range": [23, 24]
+    },
+    {
+      "name": "Value 6",
+      "type": "rand:float",
+      "range": [86, 99.3]
+    }
+  ]
+}

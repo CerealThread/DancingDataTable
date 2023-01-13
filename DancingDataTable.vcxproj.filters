@@ -853,5 +853,17 @@
     <None Include="include\glm\gtx\wrap.inl">
       <Filter>Header Files</Filter>
     </None>
+    <None Include="resources\basicshader.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="resources\basicshader.vs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="resources\shader.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="resources\shader.vert">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

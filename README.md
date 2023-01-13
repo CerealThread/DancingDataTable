@@ -4,7 +4,7 @@ Joah Robak
  
 ## Overview
 
-This is a renderer written in C++ using OpenGL API. It was created for the EWU Student Research & Creative Works Symposium 2020. It was created to explore how 3D data representation could be combined with nature to produce a unique way of representing data. The project shows fields of grass representing data from .csv files.
+This is a renderer written in C++ using OpenGL API. It was created for the EWU Student Research & Creative Works Symposium 2020. It was created to explore how 3D data representation could be combined with nature to produce a unique way of representing data. The project shows fields of grass presenting data from .csv files.
 
 
 ## Requirements
